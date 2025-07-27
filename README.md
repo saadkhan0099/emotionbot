@@ -24,22 +24,21 @@ An interactive **Next.js** application where users can ask questions, get AI-gen
 
 ---
 
-## 📂 Project Structure
 src/
 ├─ app/
-│   ├─ components/
-│   │    ├─ Header.js
-│   │    ├─ Messages.js
-│   │    ├─ ComparisonResult.js
-│   │    ├─ SessionHistory.js
-│   │    ├─ InputArea.js
-│   │    ├─ ModeToggle.js
-│   ├─ page.js
-│   └─ api/
-│        ├─ groq.js
-│        └─ compare.js
+│ ├─ components/
+│ │ ├─ Header.js
+│ │ ├─ Messages.js
+│ │ ├─ ComparisonResult.js
+│ │ ├─ SessionHistory.js
+│ │ ├─ InputArea.js
+│ │ ├─ ModeToggle.js
+│ ├─ page.js
+│ └─ api/
+│ ├─ groq.js
+│ └─ compare.js
 ├─ styles/
-│   └─ globals.css
+│ └─ globals.css
 └─ ...
 
 
