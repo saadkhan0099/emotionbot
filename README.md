@@ -90,11 +90,5 @@ Done! 🎉
 This project is licensed under the MIT License.
 
 
----
 
-✅ This version keeps the **Next.js style for setup** (like you wanted) **plus your custom details**.  
-✅ Looks professional and explains everything.
 
----
-
-Do you want me to **create a one-line Git command sequence** so you can commit and push this updated README now?
