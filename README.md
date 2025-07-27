@@ -23,7 +23,7 @@ An interactive **Next.js** application where users can ask questions, get AI-gen
 - JavaScript (ES6+)
 
 ---
-
+```
 src/
 ├─ app/
 │ ├─ components/
@@ -40,7 +40,7 @@ src/
 ├─ styles/
 │ └─ globals.css
 └─ ...
-
+```
 
 ---
 
